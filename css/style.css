@@ -82,6 +82,11 @@
 
 
 /*** Navbar ***/
+.navbar-logo {
+    display: flex;
+    gap: 20px;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     position: relative;
     margin-left: 25px;
