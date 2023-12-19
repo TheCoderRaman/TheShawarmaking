@@ -1,0 +1,365 @@
+[
+    {
+        "summary": "Tasty",
+        "name": "Breakfast",
+        "icon": "fa fa-coffee",
+        "menu": [
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Dubai Chicken Shawarma wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus Paneer Shawarma Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Cheesey Falafel Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Grilled Chicken Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Paneer Fattoush Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Arabian Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Brown Rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Mushroom Brown rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Chicken",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Kebab Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Satay Kebab",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Paneer",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Heman Protein Shakes",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Gym Junkie protein Shake",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Millet Ragi Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Weekend worrier Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            }
+        ]
+    },
+    {
+        "summary": "Yummy",
+        "name": "Launch",
+        "icon": "fa fa-hamburger",
+        "menu": [
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Dubai Chicken Shawarma wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus Paneer Shawarma Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Cheesey Falafel Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Grilled Chicken Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Paneer Fattoush Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Arabian Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Brown Rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Mushroom Brown rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Chicken",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Kebab Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Satay Kebab",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Paneer",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Heman Protein Shakes",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Gym Junkie protein Shake",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Millet Ragi Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Weekend worrier Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            }
+        ]
+    },
+    {
+        "summary": "Lovely",
+        "name": "Dinner",
+        "icon": "fa fa-utensils",
+        "menu": [
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Dubai Chicken Shawarma wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus Paneer Shawarma Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Cheesey Falafel Wrap",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Grilled Chicken Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Burger",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Paneer Fattoush Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Arabian Salad",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Brown Rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Mushroom Brown rice box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Chicken",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Falafel Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Kebab Box",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Chicken Satay Kebab",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Hummus",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Herbs Grilled Paneer",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Heman Protein Shakes",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Gym Junkie protein Shake",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Millet Ragi Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            },
+            {
+                "price": "₹100",
+                "summary": "Lorem ipsum gimpsum lipsum dipsum givesum",
+                "name": "Weekend worrier Protein Smoothie",
+                "image": "https://source.unsplash.com/random/80x80?food"
+            }
+        ]
+    }
+]
